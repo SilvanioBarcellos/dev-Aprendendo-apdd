@@ -1,0 +1,7 @@
+export default function exemplo (){
+    return(
+        <>
+            01 plano exemplo
+        </>
+    );
+   }
